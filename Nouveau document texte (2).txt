@@ -1,0 +1,74 @@
+Public Class frmSupprimer
+    Dim num As String
+    Dim titre As String
+    Dim auteur As String
+    Dim NbreDePage As String
+    Dim cat As String
+    Dim an As String
+
+    Private Sub btnSupprimer_Click(sender As Object, e As EventArgs) Handles btnSupprimer.Click
+        Dim res As MsgBoxResult
+        res = MsgBox("Voulez vous vraiment supprimer les informations sur ce livre?", MsgBoxStyle.YesNo)
+        If res = MsgBoxResult.Yes Then
+
+            Call connecter()
+
+
+            cmd.CommandText = "DELETE LIVRE where id_livre =" & num
+
+
+            cmd.ExecuteNonQuery()
+            Call deconnecter()
+            ds.Tables("dt_LIVRE").Clear()
+            chargerLivre(dgvPublication, "LIVRE")
+
+
+        End If
+    End Sub
+    Private Sub frmSupprimer_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        chargerLivre(dgvPublication, "LIVRE")
+    End Sub
+    Private Sub btnAfficher_Click(sender As Object, e As EventArgs) Handles btnAfficher.Click
+
+
+        'Récuperation des différents valeurs de la dataCrid DGV
+
+        num = dgvPublication.CurrentRow.Cells(0).Value.ToString
+        titre = dgvPublication.CurrentRow.Cells("titre").Value.ToString
+        auteur = dgvPublication.CurrentRow.Cells("auteur").Value.ToString
+        NbreDePage = dgvPublication.CurrentRow.Cells("nbre_pages").Value.ToString
+        cat = dgvPublication.CurrentRow.Cells("categorie").Value.ToString
+        an = dgvPublication.CurrentRow.Cells("date_parution").Value.ToString
+
+        lblID.Text = "LIVRE ID : " & num
+        'Attribuer les différents valeurs 
+
+        txtTitre.Text = titre
+        txtAuteur.Text = auteur
+        txtNbrePage.Text = NbreDePage
+
+
+        If Trim(cat).CompareTo("Roman") = 0 Then
+            rdRoman.Checked = True
+        End If
+
+        If Trim(cat).CompareTo("Policier") = 0 Then
+            rdPolicier.Checked = True
+        End If
+
+        If Trim(cat).CompareTo("Scientifique") = 0 Then
+            rdScientifique.Checked = True
+        End If
+        dtpSupprimer.Value = an
+
+
+
+
+
+    End Sub
+    Private Sub frmSupprimer_Closed(sender As Object, e As EventArgs) Handles Me.Closed
+        ds.Tables("dt_LIVRE").Clear()
+    End Sub
+
+
+End Class

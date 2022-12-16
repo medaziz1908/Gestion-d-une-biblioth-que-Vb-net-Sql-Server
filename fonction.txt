@@ -1,0 +1,40 @@
+Imports System.Data.SqlClient
+Module mesFonctions
+    Public con As New SqlConnection
+    Public cmd As New SqlCommand
+    Public da As New SqlDataAdapter
+    Public ds As New DataSet
+
+    Public Sub connecter()
+        con.ConnectionString = "Data Source=DESKTOP-UU7NBT7;Initial Catalog=bibliotheque;Integrated Security=True"
+        con.Open()
+    End Sub
+
+    Public Sub deconnecter()
+        con.Close()
+    End Sub
+
+    Public Sub remplirDGV(dgv As DataGridView, table As String)
+        Call connecter()
+        cmd.CommandText = "select * from " & table
+        cmd.Connection = con
+        da.SelectCommand = cmd
+        'Fill synonime de charger en anglais 
+        da.Fill(ds, "dt_" & table)
+        dgv.DataSource = ds.Tables("dt_" & table)
+
+        Call deconnecter()
+    End Sub
+    Public Sub chercherLiv(dgv As DataGridView, ch As String)
+        Call connecter()
+        cmd.CommandText = "select * from livre where titre like '" & ch & "%'"
+        cmd.Connection = con
+        da.SelectCommand = cmd
+        'Fill synonime de charger en anglais 
+        ds.Tables("dt_livre").Clear()
+        da.Fill(ds, "dt_livre")
+        dgv.DataSource = ds.Tables("dt_livre")
+
+        Call deconnecter()
+    End Sub
+end module

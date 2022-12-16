@@ -1,0 +1,60 @@
+C:\Users\azizd\Desktop\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\azizd\Desktop\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\azizd\Desktop\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\azizd\Desktop\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\azizd\Desktop\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\azizd\Desktop\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\azizd\Desktop\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\azizd\Desktop\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\azizd\Desktop\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\azizd\Desktop\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\azizd\Desktop\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\azizd\Desktop\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\azizd\Desktop\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.vbproj.CopyComplete
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form2.resources
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form3.resources
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form4.resources
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Menu.resources
+C:\Users\azizd\Desktop\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Resources.resources
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form2.resources
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form3.resources
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form4.resources
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Menu.resources
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Resources.resources
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.vbproj.CopyComplete
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\azizd\OneDrive\Bureau\Nouveau dossier\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
